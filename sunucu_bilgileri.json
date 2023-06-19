@@ -1,0 +1,21 @@
+{
+    "takim_no": 325814,
+    "hakem_sunucu": "http://127.0.0.1:5555",
+    "iha_adres": ":5005",
+    "login_bilgileri": {
+        "kadi": "ROKO",
+        "sifre": "BASILISK"
+    },
+    "kamera":{
+        "udp":{
+            "adres":"127.0.0.1",
+            "port":20001
+        },
+        "cozunurluk":{
+            "en":640,
+            "boy":480
+        }
+    },
+
+    "arayuz_ws": "ws://localhost:6789/"
+}

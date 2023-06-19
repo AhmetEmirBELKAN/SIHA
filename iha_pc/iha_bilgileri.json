@@ -1,0 +1,10 @@
+{
+    "kamera_udp":{
+        "adres":"127.0.0.1",
+        "port":20001
+    },
+    "cozunurluk":{
+        "en":640,
+        "boy":480
+    }
+}
